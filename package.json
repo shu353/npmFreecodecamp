@@ -1,5 +1,6 @@
 {
 	"author": "Jesus Vargas",
+	"description": "web app to learn npm, apis",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
