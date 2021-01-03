@@ -3,6 +3,7 @@
 	"description": "web app to learn npm, apis",
 	"keywords": ["freecodecamp","npm","learning"],
 	"license": "student",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
