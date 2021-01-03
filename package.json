@@ -2,6 +2,7 @@
 	"author": "Jesus Vargas",
 	"description": "web app to learn npm, apis",
 	"keywords": ["freecodecamp","npm","learning"],
+	"license": "student",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
