@@ -1,7 +1,11 @@
 {
 	"author": "Jesus Vargas",
 	"description": "web app to learn npm, apis",
-	"keywords": ["freecodecamp","npm","learning"],
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"learning"
+	],
 	"license": "student",
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
